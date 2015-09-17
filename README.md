@@ -1,2 +1,2 @@
 # Book-Viewer
-Simple book searching app
+Simple book searching app using Angular
