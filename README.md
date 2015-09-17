@@ -1,2 +1,2 @@
 # Book-Viewer
-Simple book searchng app
+Simple book searching app
